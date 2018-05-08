@@ -10,6 +10,11 @@ public class Coin
 
     public String getCoinOption()
     {
-        return coinOption;
+        int n;
+        n = (int)(Math.random()*2)+1;
+        if(n==1)
+            return "head";
+        else
+            return "tails";
     }
 }
