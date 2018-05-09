@@ -1,0 +1,2 @@
+https://bitbucket.org/vargasmanuel/practicagit/src/master/
+https://gitlab.com/VargasManuel/PythonProyecto
